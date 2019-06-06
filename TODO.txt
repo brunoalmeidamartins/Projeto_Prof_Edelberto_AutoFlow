@@ -1,0 +1,4 @@
+- Arrumar libiec61850 abrindo mais de uma conexão por VE quando a 1a conexão não funciona
+- Melhorar print do hostapd
+- Testar wpa_supplicant em unicast
+- Adicionar autenticação pela porta
